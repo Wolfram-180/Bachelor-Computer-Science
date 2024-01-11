@@ -1,8 +1,15 @@
-# Bachelor-in-Computer-Science
-Bachelor in Computer Science
+## Receiving Bachelor in Computer Science at [International University of Applied Sciences](https://www.iu.org/bachelor/computer-science)
 
 ![Semester 5](semester_5.png)
+
+Semester 4 - :
 ![Semester 4](semester_4.png)
+
+Semester 3 - all passed:
 ![Semester 3](semester_3.png)
+
+Semester 2 - all passed:
 ![Semester 2](semester_2.png)
+
+Semester 1 - all passed:
 ![Semester 1](semester_1.png)
