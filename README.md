@@ -4,7 +4,7 @@ Semester 5 - in process:
 ![Semester 5](semester_5.png)
 
 Semester 4 - all exams done, awaiting results:
-![Semester 4](semester_4.png)
+![Semester 4](semester_4.png)  
 
 Semester 3 - all passed:
 ![Semester 3](semester_3.png)
