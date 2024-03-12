@@ -1,7 +1,7 @@
 ## Receiving Bachelor of Computer Science at [International University of Applied Sciences](https://www.iu.org/bachelor/computer-science)
 
 Semester 5 - in process:
-![Semester 5](semester_55.png)
+![Semester 5](semester_5.png)
 
 Semester 4 - all passed:
 ![Semester 4](semester_4.png)  
