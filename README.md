@@ -1,6 +1,6 @@
 ## Receiving Bachelor of Computer Science at [International University of Applied Sciences](https://www.iu.org/bachelor/computer-science)
 
-Doing diploma!
+Now working on Bachelor Thesis.
 
 Effectives A - B passed:
 ![Semester 5](effectives_a_b.png)
