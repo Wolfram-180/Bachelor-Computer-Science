@@ -9,7 +9,7 @@ Semester 6 - all passed:
 ![Semester 5](semester_6.png)
 
 Semester 5 - all passed:
-![Semester 5]()
+![Semester 5](https://github.com/Wolfram-180/Bachelor-Computer-Science/blob/main/semester_5.png)
 
 Semester 4 - all passed:
 ![Semester 4](semester_4.png)  
