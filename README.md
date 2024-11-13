@@ -9,7 +9,7 @@ Semester 6 - all passed:
 ![Semester 5](semester_6.png)
 
 Semester 5 - all passed:
-![Semester 5](semester_5.png)
+
 
 Semester 4 - all passed:
 ![Semester 4](semester_4.png)  
