@@ -1,8 +1,8 @@
 ## Bachelor of Computer Science at [International University of Applied Sciences](https://www.iu.org/bachelor/computer-science)
 
-Bachelor Thesis:
+Bachelor Thesis: ![link](https://github.com/Wolfram-180/Bachelor-Computer-Science/blob/main/20250326_Ulvis_Sergei_32113004_bachelor_thesis_nopers.pdf)
 
-Colloquium defense:
+Colloquium defense: ![link](https://github.com/Wolfram-180/Bachelor-Computer-Science/blob/main/Colloquium_080425_nopers.pdf)
 
 Effectives A - B passed:
 ![Semester 5](effectives_a_b.png)
