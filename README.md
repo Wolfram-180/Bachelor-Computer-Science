@@ -1,6 +1,6 @@
 ## Bachelor of Computer Science at [International University of Applied Sciences](https://www.iu.org/bachelor/computer-science)
 
-Diploma: [PDF](https://github.com/Wolfram-180/Bachelor-Computer-Science/blob/main/diploma.jpg)
+Diploma: [jpg](https://github.com/Wolfram-180/Bachelor-Computer-Science/blob/main/diploma.jpg)
 
 Bachelor Thesis: [PDF](https://github.com/Wolfram-180/Bachelor-Computer-Science/blob/main/20250326_Ulvis_Sergei_32113004_bachelor_thesis_nopers.pdf)
 
